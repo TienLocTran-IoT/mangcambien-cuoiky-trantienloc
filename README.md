@@ -47,7 +47,7 @@ mangcambien-cuoiky-trantienloc/
   + Trên thanh công cụ Arduino IDE, chọn đúng cổng COM kết nối và tên mạch là ESP32 DevModule.
   + Nhấn nút Upload (Biểu tượng mũi tên chỉ sang phải ->) để hệ thống tiến hành biên dịch thuật toán và nạp code xuống phần cứng.
   
-  2.3 Quy trình vận hành kiểm thử
+2.3 Quy trình vận hành kiểm thử
   - Khởi động: Cấp nguồn cho mạch, màn hình LCD hiển thị Connecting WiFi.... Khi kết nối thành công với Cloud Blynk, còi kêu 1 tiếng bíp ngắn và LCD chuyển sang trạng thái chờ: He thong khoa / Dang lang nghe....
 
   - Điều khiển tại chỗ (Offline): Nói từ khóa "Tiến Lộc" vào micro INMP441 để kích hoạt trạng thái nhận lệnh (LCD hiển thị: Chao Tien Loc! / Moi ra lenh (5s)). Trong vòng 5 giây tiếp theo, nói "Mở khóa" để kích hoạt rơ-le co chốt Solenoid mở cửa.
