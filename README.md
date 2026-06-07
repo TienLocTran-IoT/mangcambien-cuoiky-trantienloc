@@ -1,8 +1,11 @@
 \# ĐỀ TÀI: VOICE CONTROL KHÓA ĐIỆN TỬ CỬA NHÀ
 
 Môn học: Mạng cảm biến
+
 Giảng viên hướng dẫn: Hồ Nhựt Minh
+
 Sinh viên thực hiện: Trần Tiến Lộc
+
 Mã số sinh viên: N23DCCI041
 
 1. Cấu trúc thư mục dự án (Repository Structure)
